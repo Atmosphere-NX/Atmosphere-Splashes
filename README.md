@@ -70,7 +70,7 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 ### ValliantStorme
 
 **Atmosphere**
-![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_0.png)
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_0.jpg)
 
 **Atmosphere Animated**
 [Crusard-Atmosphere-animated](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_1.mp4)
