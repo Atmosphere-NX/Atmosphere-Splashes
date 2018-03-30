@@ -25,6 +25,10 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 ![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_0.png)
 
+### TheCyberQuake
+
+![TheCyberQuake](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_0.png)
+
 ### TheReturningVoid
 
 NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable versions (2.8) may be unable to open them.
@@ -37,14 +41,10 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 
 ![TheReturningVoid-Vibrant](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheReturningVoid_1.png)
 
-### TheCyberQuake
-
-![TheCyberQuake](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_0.png)
-
 # In-Progress Submissions
 
 See [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/in_progress/Readme.md) for in-progress submissions.
 
-# Non-Running Submission
+# Non-Running Submissions
 
 See [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/non_running/Readme.md) for non-running submissions. These are for inspiration rather than competing to be Atmosphère's default.
