@@ -58,6 +58,9 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 **Planet**
 ![ValliantStorme-Planet](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/valliantstorme_0.png)
 
+**Planet (Geomanist Edit)**
+![ValliantStorme-Planet-Geomanist](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/valliantstorme_1.png)
+
 # In-Progress Submissions
 
 See [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/in_progress/Readme.md) for in-progress submissions.
