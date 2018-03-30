@@ -32,7 +32,7 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 
 **Moonlight**
 
-![TheReturningVoid-Moonlight](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheReturningVoid/Moonlight.png)
+![TheReturningVoid-Moonlight](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheReturningVoid_0.png)
 ---
 
 ## In-Progress Submissions
