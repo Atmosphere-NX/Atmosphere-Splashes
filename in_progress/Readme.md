@@ -13,10 +13,6 @@ NOTE: Other variants can be seen [here](https://github.com/Adubbz/Atmosphere-Spl
 ![Extra](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/Extra_3.png)
 ![Extra](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/Extra_4.png)
 
-### TheCyberQuake
-
-![TheCyberQuake](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/TheCyberQuake_0.png)
-
 ### NicknameGoesHere
 
 ![NicknameGoesHere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/NicknameGoesHere_0.png)
