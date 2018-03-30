@@ -20,4 +20,4 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 **TheReturningVoid**
 
-![TheCyberQuake](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/TheReturningVoid_0.png)
+![TheReturningVoid](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/TheReturningVoid_0.png)
