@@ -2,7 +2,7 @@
 
 This repo is to track the work on people's splash submissions for [Atmosphère-NX](https://github.com/SciresM/Atmosphere-NX). In-progress submissions can be found in `in_progress`, final submissions are in `final`.
 
-# Contrbuting
+# Contributing
 
 ### Naming & File Placement
 * Submissions should be named following the format `Author_VariantNum.png`. For example, my first variant would be `Adubbz_0.png`, and my second would be `Adubbz_1.png`. 
@@ -17,13 +17,13 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 # Final Submissions
 
-### Jaames
-
-![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_0.png)
-
 ### Gerd
 
 ![Gerd](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Gerd_0.png)
+
+### Jaames
+
+![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_0.png)
 
 ### TheReturningVoid
 
