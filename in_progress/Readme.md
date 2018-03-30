@@ -12,9 +12,3 @@ NOTE: Other variants can be seen [here](https://github.com/Adubbz/Atmosphere-Spl
 ![Extra](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/Extra_2.png)
 ![Extra](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/Extra_3.png)
 ![Extra](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/Extra_4.png)
-
-### NicknameGoesHere
-
-![NicknameGoesHere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/NicknameGoesHere_0.png)
-![NicknameGoesHere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/NicknameGoesHere_1.png)
-![NicknameGoesHere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/NicknameGoesHere_2.png)
