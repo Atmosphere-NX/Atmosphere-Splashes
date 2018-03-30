@@ -67,7 +67,7 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 ![ValliantStorme-Space](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/valliantstorme_2.png)
 
 
-### ValliantStorme
+### Crusard
 
 **Atmosphere**
 ![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_0.jpg)
