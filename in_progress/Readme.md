@@ -6,5 +6,4 @@
 
 **TheReturningVoid**
 
-![TheReturningVoid](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/TheReturningVoid_0.p
-ng)
+![TheReturningVoid](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/TheReturningVoid_0.png)
