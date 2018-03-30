@@ -27,6 +27,10 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 
 ![TheReturningVoid-Moonlight](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheReturningVoid_0.png)
 
+**Vibrant**
+
+![TheReturningVoid-Vibrant](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheReturningVoid_1.png)
+
 # In-Progress Submissions
 
 See [this](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/in_progress/Readme.md) file for the in-progress submissions.
