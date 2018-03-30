@@ -26,6 +26,10 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 ![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_0.png)
 
+### NicknameGoesHere
+
+![NicknameGoesHere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/NicknameGoesHere_0.png)
+
 ### TheCyberQuake
 
 **Frozen Rocket**
