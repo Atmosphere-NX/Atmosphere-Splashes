@@ -6,6 +6,11 @@ Submissions here are not running for the main splash, they are there to provide 
 ![fire3element](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/non_running/fire3element_0.png)
 ![fire3element](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/non_running/fire3element_1.png)
 
+### MerryMage
+
+![MerryMage Tiled Logo](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/non_running/MerryMage_0.png)
+![MerryMage Refraction](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/non_running/MerryMage_1.png)
+
 ### NicknameGoesHere
 
 ![NicknameGoesHere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/non_running/NicknameGoesHere_0.png)
