@@ -11,6 +11,7 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 ### Submissions
 * In-progress submissions should be placed into the `in_progress` folder following the above naming conventions, and added to its specific README found [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/in_progress/Readme.md).
 * Finalised submissions should be placed into the `final` folder following the above naming conventions, and should be added to the main README (this file).
+* When putting your work into the correct README, please ensure your name is in alphabetical order with the others
 
 ### Non-Running Submissions
 * If you do not wish for your splash to potentially be selected as Atmosphère's default, you may place your work into the `non-running` folder, and add it to its specific README found [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/non_running/Readme.md).
