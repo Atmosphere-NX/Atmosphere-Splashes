@@ -32,17 +32,15 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 ### TheCyberQuake
 
+NOTE: Other variants can be seen [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/final/TheCyberQuake/README.md)
+
 **Frozen Rocket**
 
-![TheCyberQuake-FrozenRocket](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_0.png)
-
-**Frozen Rocket (Orbitron Edit)**
-
-![TheCyberQuake-FROrbitron](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_2.png)
+![TheCyberQuake-FrozenRocket](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_3.png)
 
 **Blastoff**
 
-![TheCyberQuake-Blastoff](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_1.png)
+![TheCyberQuake-Blastoff](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_4.png)
 
 
 ### TheReturningVoid
