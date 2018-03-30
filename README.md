@@ -34,3 +34,7 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 # In-Progress Submissions
 
 See [this](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/in_progress/Readme.md) file for the in-progress submissions.
+
+# Non-Running
+
+We also got submissions which are not competing for the main splash, but instead are there for inspiration. Check them out [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/non_running/Readme.md)
