@@ -30,6 +30,7 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 ![TheCyberQuake](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_0.png)
 ![TheCyberQuake](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_1.png)
+![TheCyberQuake](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_2.png)
 
 ### TheReturningVoid
 
