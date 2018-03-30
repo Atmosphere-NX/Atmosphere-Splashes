@@ -17,10 +17,4 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 ## In-Progress Submissions
 
-**TheCyberQuake**
-
-![TheCyberQuake](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/TheCyberQuake_0.png)
-
-**TheReturningVoid**
-
-![TheReturningVoid](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/in_progress/TheReturningVoid_0.png)
+See [this](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/in_progress/Readme.md) file for the in-progress submissions.
