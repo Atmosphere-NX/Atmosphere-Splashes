@@ -10,6 +10,9 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 ![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_0.png)
 
+**Gerd**
+
+![Gerd](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Gerd_0.png)
 ---
 
 ## In-Progress Submissions
