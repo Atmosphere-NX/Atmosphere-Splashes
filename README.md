@@ -44,6 +44,26 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 ![Retr0id_2](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Retr0id_2.png)
 
+## Swear
+
+NOTE: Other variants can be seen [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/final/Swear/README.md)
+
+![Swear_0](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_0.png)
+![Swear_1](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_1.png)
+![Swear_2](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_2.png)
+![Swear_3](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_3.png)
+![Swear_4](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_4.png)
+![Swear_5](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_5.png)
+![Swear_6](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_6.png)
+![Swear_7](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_7.png)
+![Swear_8](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_8.png)
+![Swear_9](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_9.png)
+
+NOTE: An animation is available for the above: 
+![Swear_9_Animated](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear/Swear_9-Animated.gif).
+
+![Swear_10](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_10.png)
+
 ### TheCyberQuake
 
 NOTE: Other variants can be seen [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/final/TheCyberQuake/README.md)
