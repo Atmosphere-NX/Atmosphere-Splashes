@@ -65,6 +65,14 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 **Planet (Geomanist Edit)**
 ![ValliantStorme-Planet-Geomanist](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/valliantstorme_1.png)
 
+### Crusard
+
+**Atmosphere**
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard_0.png)
+
+**Atmosphere animated**
+[Crusard-Atmosphere-Animated](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard_1.mp4)
+
 # In-Progress Submissions
 
 See [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/in_progress/Readme.md) for in-progress submissions.
