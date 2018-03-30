@@ -53,6 +53,11 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 
 ![TheReturningVoid-Vibrant](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheReturningVoid_1.png)
 
+### ValliantStorme
+
+**Planet**
+![ValliantStorme-Planet](https://github.com/Adubbs/Atmosphere-Splashes/tree/master/final/valliantstorme_0.png)
+
 # In-Progress Submissions
 
 See [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/in_progress/Readme.md) for in-progress submissions.
