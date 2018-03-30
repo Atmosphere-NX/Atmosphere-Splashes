@@ -6,13 +6,21 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 ## Final Submissions
 
-**Jaames**
+### Jaames
 
 ![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_0.png)
 
-**Gerd**
+### Gerd
 
 ![Gerd](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Gerd_0.png)
+
+### TheReturningVoid
+
+NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable versions (2.8) may be unable to open them.
+
+**Moonlight**
+
+![TheReturningVoid-Moonlight](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheReturningVoid/Moonlight.png)
 ---
 
 ## In-Progress Submissions
