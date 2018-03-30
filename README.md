@@ -30,6 +30,20 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 ![NicknameGoesHere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/NicknameGoesHere_0.png)
 
+### Retr0id
+
+**Outline**
+
+![Retr0id_0](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Retr0id_0.png)
+
+**Shaded**
+
+![Retr0id_1](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Retr0id_1.png)
+
+**Orbital**
+
+![Retr0id_2](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Retr0id_2.png)
+
 ### TheCyberQuake
 
 NOTE: Other variants can be seen [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/final/TheCyberQuake/README.md)
