@@ -8,11 +8,11 @@ Submissions here are not running for the main splash, they are there to provide 
 
 ### GGLinnk
 
-![GGLinnk-OldSphère](./rendus/atmos_rev1.png)
-![GGLinnk-OldSphère](./rendus/atmos_rev2.1_longway.png)
-![GGLinnk-OldSphère](./rendus/atmos_rev2.2_shortway.png)
-![GGLinnk-OldSphère](./rendus/atmos_rev3_notrail.png)
-![GGLinnk-OldSphère](./rendus/atmos_rev4_bigtrail.png)
+![GGLinnk-OldSphère](./GGLinnk/rendus/atmos_rev1.png)
+![GGLinnk-OldSphère](./GGLinnk/rendus/atmos_rev2.1_longway.png)
+![GGLinnk-OldSphère](./GGLinnk/rendus/atmos_rev2.2_shortway.png)
+![GGLinnk-OldSphère](./GGLinnk/rendus/atmos_rev3_notrail.png)
+![GGLinnk-OldSphère](./GGLinnk/rendus/atmos_rev4_bigtrail.png)
 
 ### MerryMage
 
