@@ -42,6 +42,13 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 ![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_0.png)
 
+### Naby
+
+![Naby0](./final/Naby/Naby_0.png)
+![Naby1a](./final/Naby/Naby_1a.png)
+![Naby1b](./final/Naby/Naby_1b.png)
+![Naby1c](./final/Naby/Naby_1c.png)
+
 ### NicknameGoesHere
 
 ![NicknameGoesHere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/NicknameGoesHere_0.png)
