@@ -109,6 +109,14 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 **Atmosphere Animated**
 [Crusard-Atmosphere-animated](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_1.mp4)
 
+### GGLinnk
+
+**Earth With Atmosphere**
+![GGLinnk-Atmosphère](final/GGLinnk/rendus/atmos_rev5.1_atmos.png)
+
+**Earth Without Atmosphere**
+![GGLinnk-NoAtmosphère](final/GGLinnk/rendus/atmos_rev5.2_noatmos.png)
+
 
 # In-Progress Submissions
 
