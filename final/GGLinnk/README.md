@@ -6,7 +6,7 @@
 ![GGLinnk-Atmosphère](./rendus/atmos_rev5.1_atmos.png)
 
 ### Final version without Earth Atmosphère
-![GGLinnk-NoAtmosphère](./rendus/atmos_rev5.2_noamos.png)
+![GGLinnk-NoAtmosphère](./rendus/atmos_rev5.2_noatmos.png)
 
 ## Licence
 ### FR
