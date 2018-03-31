@@ -18,9 +18,25 @@ This repo is to track the work on people's splash submissions for [Atmosphère-N
 
 # Final Submissions
 
+### Crusard
+
+**Atmosphere**
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_0.png)
+
+**Atmosphere Animated**
+[Crusard-Atmosphere-animated](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_1.mp4)
+
 ### Gerd
 
 ![Gerd](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Gerd_0.png)
+
+### GGLinnk
+
+**Earth With Atmosphere**
+![GGLinnk-Atmosphère](final/GGLinnk/rendus/atmos_rev5.1_atmos.png)
+
+**Earth Without Atmosphere**
+![GGLinnk-NoAtmosphère](final/GGLinnk/rendus/atmos_rev5.2_noatmos.png)
 
 ### Jaames
 
@@ -99,23 +115,6 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 
 **Space**
 ![ValliantStorme-Space](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/valliantstorme_2.png)
-
-
-### Crusard
-
-**Atmosphere**
-![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_0.png)
-
-**Atmosphere Animated**
-[Crusard-Atmosphere-animated](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_1.mp4)
-
-### GGLinnk
-
-**Earth With Atmosphere**
-![GGLinnk-Atmosphère](final/GGLinnk/rendus/atmos_rev5.1_atmos.png)
-
-**Earth Without Atmosphere**
-![GGLinnk-NoAtmosphère](final/GGLinnk/rendus/atmos_rev5.2_noatmos.png)
 
 
 # In-Progress Submissions
