@@ -1,6 +1,6 @@
 # Athmosphère splash screen by GGLinnk
 
-## Revisions will not be used. See [](/final/GGLinnk)
+## Revisions will not be used. See [GGLinnk final](/final/GGLinnk)
 
 ## View
 
