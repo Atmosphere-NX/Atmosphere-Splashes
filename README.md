@@ -32,6 +32,10 @@ See [contributing guide](CONTRIBUTING.md)
 
 ![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_0.png)
 
+### MerryMage
+
+![MerryMage](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/MerryMage_0.png)
+
 ### Naby
 
 ![Naby0](./final/Naby/Naby_0.png)
@@ -72,7 +76,7 @@ NOTE: Other variants can be seen [here](https://github.com/Adubbz/Atmosphere-Spl
 ![Swear_8](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_8.png)
 ![Swear_9](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_9.png)
 
-NOTE: An animation is available for the above: 
+NOTE: An animation is available for the above:
 ![Swear_9_Animated](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear/Swear_9-Animated.gif).
 
 ![Swear_10](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_10.png)
