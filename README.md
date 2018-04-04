@@ -41,7 +41,6 @@ See [contributing guide](CONTRIBUTING.md)
 ![Naby0](./final/Naby/Naby_0.png)
 ![Naby1a](./final/Naby/Naby_1a.png)
 ![Naby1b](./final/Naby/Naby_1b.png)
-![Naby1c](./final/Naby/Naby_1c.png)
 ![Naby2](./final/Naby/Naby_2.png)
 
 ### NicknameGoesHere
