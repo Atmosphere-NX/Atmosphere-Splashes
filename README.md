@@ -14,7 +14,11 @@ See [contributing guide](CONTRIBUTING.md)
 ![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_0.png)
 
 **Atmosphere Animated**
-[Crusard-Atmosphere-animated](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_1.mp4)
+[Crusard-Atmosphere-animated](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_0.mp4)
+
+**Atmosphere Clean**
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_1.png)
+
 
 ### Gerd
 
