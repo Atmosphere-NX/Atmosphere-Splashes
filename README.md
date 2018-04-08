@@ -3,11 +3,11 @@
 
 # Atmosphère Splashes
 
-This repo is to track the work on people's splash submissions for [Atmosphère-NX](https://github.com/SciresM/Atmosphere-NX). In-progress submissions can be found in `in_progress`, final submissions are in `final`.
+This repo is to track the work on people's splash submissions for [Atmosphère-NX](https://github.com/Atmosphere-NX/Atmosphere). In-progress submissions can be found in `in_progress`, final submissions are in `final`.
 
 # Contributing
 
-See [contributing guide](CONTRIBUTING.md)
+See the [contributing guide](CONTRIBUTING.md).
 
 # Final Submissions
 
