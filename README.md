@@ -41,6 +41,12 @@ See the [contributing guide](CONTRIBUTING.md).
 
 ![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_0.png)
 
+With logo concept by **sirocyl**:
+
+![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_1.png)
+
+![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_2.png)
+
 ### MerryMage
 
 ![MerryMage](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/MerryMage_0.png)
