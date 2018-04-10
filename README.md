@@ -25,6 +25,14 @@ See the [contributing guide](CONTRIBUTING.md).
 **Atmosphere Clean with Reswitched logo**
 ![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_2.png)
 
+**Atmosphere Contiumm**
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_3.png)
+
+**Atmosphere Clean Contiumm**
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_4.png)
+
+**Atmosphere Clean Contiumm with Reswitched logo**
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_5.png)
 ### Gerd
 
 ![Gerd](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Gerd_0.png)
