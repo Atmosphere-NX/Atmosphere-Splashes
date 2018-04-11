@@ -11,8 +11,6 @@ See the [contributing guide](CONTRIBUTING.md).
 
 # Final Submissions
 
-https://raw.githubusercontent.com/DaSuperCon/Atmosphere-Splashes/blob/master/final/DaSuperCon_2.png
-
 ### Crusard
 
 **Atmosphere**
