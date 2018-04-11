@@ -11,6 +11,18 @@ See the [contributing guide](CONTRIBUTING.md).
 
 # Final Submissions
 
+### DaSuperCon
+
+**Extensive version**
+![DaSuperCon_0](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/DaSuperCon_0.png)
+
+**Plain version**
+![DaSuperCon_1](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/DaSuperCon_1.png)
+
+**Space version**
+![DaSuperCon_2](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/DaSuperCon_2.png)
+
+
 ### Crusard
 
 **Atmosphere**
