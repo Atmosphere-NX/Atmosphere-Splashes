@@ -47,14 +47,14 @@ See the [contributing guide](CONTRIBUTING.md).
 
 ### Distil
 
-![Atmosphère Flat](https://raw.githubusercontent.com/Distil62/Atmosphere-Splashes/master/final/Distil_0.png)
+![Atmosphère Flat](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Distil_0.png)
 
 ### Extra
 
-![Extra](https://raw.githubusercontent.com/Distil62/Atmosphere-Splashes/master/final/Extra_0.png)
-![Extra](https://raw.githubusercontent.com/Distil62/Atmosphere-Splashes/master/final/Extra_1.png)
-![Extra](https://raw.githubusercontent.com/Distil62/Atmosphere-Splashes/master/final/Extra_2.png)
-![Extra](https://raw.githubusercontent.com/Distil62/Atmosphere-Splashes/master/final/Extra_3.png)
+![Extra](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Extra_0.png)
+![Extra](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Extra_1.png)
+![Extra](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Extra_2.png)
+![Extra](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Extra_3.png)
 
 ### Gerd
 
