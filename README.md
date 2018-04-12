@@ -14,36 +14,36 @@ See the [contributing guide](CONTRIBUTING.md).
 ### Crusard
 
 **Atmosphere**
-![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_0.png)
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Crusard/Crusard_0.png)
 
 **Atmosphere Animated**
-[Crusard-Atmosphere-animated](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_0.mp4)
+[Crusard-Atmosphere-animated](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Crusard/Crusard_0.mp4)
 
 **Atmosphere Clean**
-![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_1.png)
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Crusard/Crusard_1.png)
 
 **Atmosphere Clean with Reswitched logo**
-![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_2.png)
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Crusard/Crusard_2.png)
 
 **Atmosphere Contiumm**
-![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_3.png)
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Crusard/Crusard_3.png)
 
 **Atmosphere Clean Contiumm**
-![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_4.png)
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Crusard/Crusard_4.png)
 
 **Atmosphere Clean Contiumm with Reswitched logo**
-![Crusard-Atmosphere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Crusard/Crusard_5.png)
+![Crusard-Atmosphere](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Crusard/Crusard_5.png)
 
 ### DaSuperCon
 
 **Extensive version**
-![DaSuperCon_0](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/DaSuperCon_0.png)
+![DaSuperCon_0](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/DaSuperCon_0.png)
 
 **Plain version**
-![DaSuperCon_1](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/DaSuperCon_1.png)
+![DaSuperCon_1](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/DaSuperCon_1.png)
 
 **Space version**
-![DaSuperCon_2](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/DaSuperCon_2.png)
+![DaSuperCon_2](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/DaSuperCon_2.png)
 
 ### Distil
 
@@ -58,7 +58,7 @@ See the [contributing guide](CONTRIBUTING.md).
 
 ### Gerd
 
-![Gerd](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Gerd_0.png)
+![Gerd](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Gerd_0.png)
 
 ### GGLinnk
 
@@ -70,17 +70,17 @@ See the [contributing guide](CONTRIBUTING.md).
 
 ### Jaames
 
-![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_0.png)
+![Jaames](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/jaames_0.png)
 
 With logo concept by **sirocyl**:
 
-![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_1.png)
+![Jaames](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/jaames_1.png)
 
-![Jaames](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/jaames_2.png)
+![Jaames](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/jaames_2.png)
 
 ### MerryMage
 
-![MerryMage](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/MerryMage_0.png)
+![MerryMage](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/MerryMage_0.png)
 
 ### Naby
 
@@ -91,59 +91,59 @@ With logo concept by **sirocyl**:
 
 ### NicknameGoesHere
 
-![NicknameGoesHere](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/NicknameGoesHere_0.png)
+![NicknameGoesHere](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/NicknameGoesHere_0.png)
 
 ### Retr0id
 
 **Outline**
 
-![Retr0id_0](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Retr0id_0.png)
+![Retr0id_0](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Retr0id_0.png)
 
 **Shaded**
 
-![Retr0id_1](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Retr0id_1.png)
+![Retr0id_1](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Retr0id_1.png)
 
 **Orbital**
 
-![Retr0id_2](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Retr0id_2.png)
+![Retr0id_2](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Retr0id_2.png)
 
 ### sirocyl
 
 Based on SVG of **jaames**'s splash screen.
 
-![sirocyl_0](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/sirocyl_0.png)
+![sirocyl_0](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/sirocyl_0.png)
 
 ### Swear
 
-NOTE: Other variants can be seen [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/final/Swear/README.md)
+NOTE: Other variants can be seen [here](https://github.com/Atmosphere-NX/Atmosphere-Splashes/tree/master/final/Swear/README.md)
 
-![Swear_0](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_0.png)
-![Swear_1](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_1.png)
-![Swear_2](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_2.png)
-![Swear_3](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_3.png)
-![Swear_4](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_4.png)
-![Swear_5](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_5.png)
-![Swear_6](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_6.png)
-![Swear_7](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_7.png)
-![Swear_8](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_8.png)
-![Swear_9](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_9.png)
+![Swear_0](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear_0.png)
+![Swear_1](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear_1.png)
+![Swear_2](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear_2.png)
+![Swear_3](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear_3.png)
+![Swear_4](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear_4.png)
+![Swear_5](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear_5.png)
+![Swear_6](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear_6.png)
+![Swear_7](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear_7.png)
+![Swear_8](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear_8.png)
+![Swear_9](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear_9.png)
 
 NOTE: An animation is available for the above:
-![Swear_9_Animated](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear/Swear_9-Animated.gif).
+![Swear_9_Animated](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear/Swear_9-Animated.gif).
 
-![Swear_10](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Swear_10.png)
+![Swear_10](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/Swear_10.png)
 
 ### TheCyberQuake
 
-NOTE: Other variants can be seen [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/final/TheCyberQuake/README.md)
+NOTE: Other variants can be seen [here](https://github.com/Atmosphere-NX/Atmosphere-Splashes/tree/master/final/TheCyberQuake/README.md)
 
 **Frozen Rocket**
 
-![TheCyberQuake-FrozenRocket](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_3.png)
+![TheCyberQuake-FrozenRocket](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/TheCyberQuake_3.png)
 
 **Blastoff**
 
-![TheCyberQuake-Blastoff](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheCyberQuake_4.png)
+![TheCyberQuake-Blastoff](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/TheCyberQuake_4.png)
 
 
 ### TheReturningVoid
@@ -152,28 +152,28 @@ NOTE: All XCFs provided were created with GIMP 2.9. As a result, latest stable v
 
 **Moonlight**
 
-![TheReturningVoid-Moonlight](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheReturningVoid_0.png)
+![TheReturningVoid-Moonlight](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/TheReturningVoid_0.png)
 
 **Vibrant**
 
-![TheReturningVoid-Vibrant](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/TheReturningVoid_1.png)
+![TheReturningVoid-Vibrant](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/TheReturningVoid_1.png)
 
 ### ValliantStorme
 
 **Planet**
-![ValliantStorme-Planet](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/valliantstorme_0.png)
+![ValliantStorme-Planet](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/valliantstorme_0.png)
 
 **Planet (Geomanist Edit)**
-![ValliantStorme-Planet-Geomanist](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/valliantstorme_1.png)
+![ValliantStorme-Planet-Geomanist](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/valliantstorme_1.png)
 
 **Space**
-![ValliantStorme-Space](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/valliantstorme_2.png)
+![ValliantStorme-Space](https://raw.githubusercontent.com/Atmosphere-NX/Atmosphere-Splashes/master/final/valliantstorme_2.png)
 
 
 # In-Progress Submissions
 
-See [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/in_progress/Readme.md) for in-progress submissions.
+See [here](https://github.com/Atmosphere-NX/Atmosphere-Splashes/tree/master/in_progress/Readme.md) for in-progress submissions.
 
 # Non-Running Submissions
 
-See [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/non_running/Readme.md) for non-running submissions. These are for inspiration rather than competing to be Atmosphère's default.
+See [here](https://github.com/Atmosphere-NX/Atmosphere-Splashes/tree/master/non_running/Readme.md) for non-running submissions. These are for inspiration rather than competing to be Atmosphère's default.
