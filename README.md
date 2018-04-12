@@ -100,7 +100,13 @@ With logo concept by **sirocyl**:
 
 ![Retr0id_2](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/Retr0id_2.png)
 
-## Swear
+### sirocyl
+
+Based on SVG of **jaames**'s splash screen.
+
+![sirocyl_0](https://raw.githubusercontent.com/Adubbz/Atmosphere-Splashes/master/final/sirocyl_0.png)
+
+### Swear
 
 NOTE: Other variants can be seen [here](https://github.com/Adubbz/Atmosphere-Splashes/tree/master/final/Swear/README.md)
 
